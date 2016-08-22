@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+	
+section h3 {
+	text-align: center;
+}
+section p {
+	text-align: center;
+}
+section {
+	border-bottom: thin dashed rgba(144,144,144,1.00);
+}
+.container-fluid #carousel1 {
+	background-color: rgba(20,20,20,1.00);
+}
+.container-fluid .row #highlights {
+	margin-top: 22px;
+}
+
+
+
+section img {
+	float: left;
+
+	}
+	
+
